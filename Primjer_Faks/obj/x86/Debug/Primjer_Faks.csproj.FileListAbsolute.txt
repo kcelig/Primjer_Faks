@@ -1,0 +1,23 @@
+C:\Users\HAL\AppData\Local\Temporary Projects\Primjer_Faks\bin\Debug\Primjer_Faks.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Primjer_Faks\bin\Debug\Primjer_Faks.pdb
+C:\Users\HAL\AppData\Local\Temporary Projects\Primjer_Faks\obj\x86\Debug\Primjer_Faks.Form1.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\Primjer_Faks\obj\x86\Debug\Primjer_Faks.Properties.Resources.resources
+C:\Users\HAL\AppData\Local\Temporary Projects\Primjer_Faks\obj\x86\Debug\Primjer_Faks.csproj.GenerateResource.Cache
+C:\Users\HAL\AppData\Local\Temporary Projects\Primjer_Faks\obj\x86\Debug\Primjer_Faks.exe
+C:\Users\HAL\AppData\Local\Temporary Projects\Primjer_Faks\obj\x86\Debug\Primjer_Faks.pdb
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.exe
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.pdb
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\bin\Debug\Primjer_Faks.exe
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\bin\Debug\Primjer_Faks.pdb
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.Form1.resources
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.Properties.Resources.resources
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.csproj.GenerateResource.Cache
+C:\Users\HAL\Desktop\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.csprojResolveAssemblyReference.cache
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.exe
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.pdb
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\bin\Debug\Primjer_Faks.exe
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\bin\Debug\Primjer_Faks.pdb
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.csprojResolveAssemblyReference.cache
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.Form1.resources
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.Properties.Resources.resources
+C:\Users\HAL\Desktop\dox\Primjer_Faks\Primjer_Faks\obj\x86\Debug\Primjer_Faks.csproj.GenerateResource.Cache
